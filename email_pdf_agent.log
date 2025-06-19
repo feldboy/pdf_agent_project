@@ -1,0 +1,858 @@
+2025-06-18 00:31:05,036 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:05,084 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 00:31:07,779 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 00:31:07,793 - INFO - AFC remote call 1 is done.
+2025-06-18 00:31:08,515 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 00:31:08,517 - INFO - Successfully generated summary for test_document.pdf
+2025-06-18 00:31:18,223 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:19,433 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:31:29,411 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:30,548 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:31:31,310 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:31,380 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 00:31:34,186 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 00:31:34,189 - INFO - AFC remote call 1 is done.
+2025-06-18 00:31:34,794 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 00:31:34,795 - INFO - Successfully generated summary for test_document.pdf
+2025-06-18 00:31:34,860 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:34,861 - INFO - Successfully extracted 237 characters from PDF
+2025-06-18 00:31:34,861 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:36,396 - INFO - Summary email sent for test_document.pdf
+2025-06-18 00:31:51,088 - INFO - Email PDF Agent initialized
+2025-06-18 00:31:51,088 - INFO - Starting Email PDF Agent...
+2025-06-18 00:31:52,323 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:31:52,488 - INFO - Found 3 unread emails
+2025-06-18 00:31:52,714 - INFO - Processing email from Google <no-reply@accounts.google.com>: Security alert
+2025-06-18 00:31:52,714 - INFO - No PDF attachments found
+2025-06-18 00:31:52,934 - INFO - Processing email from Google <no-reply@accounts.google.com>: 2-Step Verification turned on
+2025-06-18 00:31:52,935 - INFO - No PDF attachments found
+2025-06-18 00:31:53,168 - INFO - Processing email from Google <no-reply@accounts.google.com>: Security alert
+2025-06-18 00:31:53,168 - INFO - No PDF attachments found
+2025-06-18 00:31:53,481 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:32:54,424 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:32:54,584 - INFO - Found 0 unread emails
+2025-06-18 00:32:54,895 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:33:56,618 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:33:56,827 - INFO - Found 0 unread emails
+2025-06-18 00:33:57,219 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:34:58,125 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:34:58,383 - INFO - Found 0 unread emails
+2025-06-18 00:34:58,700 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:35:21,939 - INFO - Email PDF Agent initialized
+2025-06-18 00:35:21,939 - INFO - Starting Email PDF Agent...
+2025-06-18 00:35:23,228 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:35:23,397 - INFO - Found 0 unread emails
+2025-06-18 00:35:23,711 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:36:25,197 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:36:25,377 - INFO - Found 1 unread emails
+2025-06-18 00:36:26,184 - INFO - Processing email from Ron Sinai <ron@novafunding.com>: Fwd: Ronel Similien - Advance #6 - 6/12/2025
+2025-06-18 00:36:26,189 - INFO - Found PDF attachment: Contract-Ronel_Similien-2025-06-12.pdf
+2025-06-18 00:36:27,681 - INFO - Successfully extracted 40052 characters from PDF
+2025-06-18 00:36:27,703 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 00:36:41,971 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 00:36:41,976 - INFO - AFC remote call 1 is done.
+2025-06-18 00:36:42,668 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 00:36:42,670 - INFO - Successfully generated summary for Contract-Ronel_Similien-2025-06-12.pdf
+2025-06-18 00:36:44,279 - INFO - Summary email sent for Contract-Ronel_Similien-2025-06-12.pdf
+2025-06-18 00:36:44,279 - INFO - Successfully processed PDF: Contract-Ronel_Similien-2025-06-12.pdf
+2025-06-18 00:36:44,815 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:37:46,141 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:37:46,304 - INFO - Found 0 unread emails
+2025-06-18 00:37:46,617 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:38:48,151 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:38:48,320 - INFO - Found 0 unread emails
+2025-06-18 00:38:48,704 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:39:50,039 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:39:50,217 - INFO - Found 0 unread emails
+2025-06-18 00:39:50,552 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:40:51,899 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:40:52,071 - INFO - Found 0 unread emails
+2025-06-18 00:40:52,401 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:41:53,625 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:41:53,786 - INFO - Found 0 unread emails
+2025-06-18 00:41:54,109 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:42:55,388 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:42:55,872 - INFO - Found 1 unread emails
+2025-06-18 00:42:58,442 - INFO - Processing email from Ron Sinai <ron@novafunding.com>: Fwd: Raymond Merriman- Nova Legal Funding PFF
+2025-06-18 00:42:58,442 - INFO - Found PDF attachment: 2301073 Pleadings Summons _ Complaint Law Offices of Sobo _ Sobo LLP Unknown, Defendant 10-16-2023.pdf
+2025-06-18 00:42:58,521 - WARNING - PDF 2301073 Medical Records Medical Records Law Offices of Sobo _ Sobo LLP Law Offices of Sobo _ Sobo LLP 08-14-2024 (1).pdf too large (13466983 bytes)
+2025-06-18 00:42:58,523 - INFO - Found PDF attachment: 2301073 Investigation Police Report_ MV-104 Merriman, Raymond Law Offices of Sobo _ Sobo LLP 03-16-2023 (3).pdf
+2025-06-18 00:42:58,523 - INFO - Found PDF attachment: Raymond Merriman payoff letter 3.26.25 (1).pdf
+2025-06-18 00:42:58,561 - INFO - Successfully extracted 9634 characters from PDF
+2025-06-18 00:42:58,561 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 00:43:03,295 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 00:43:03,300 - INFO - AFC remote call 1 is done.
+2025-06-18 00:43:04,484 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 00:43:04,486 - INFO - Successfully generated summary for 2301073 Pleadings Summons _ Complaint Law Offices of Sobo _ Sobo LLP Unknown, Defendant 10-16-2023.pdf
+2025-06-18 00:43:07,751 - INFO - Summary email sent for 2301073 Pleadings Summons _ Complaint Law Offices of Sobo _ Sobo LLP Unknown, Defendant 10-16-2023.pdf
+2025-06-18 00:43:07,752 - INFO - Successfully processed PDF: 2301073 Pleadings Summons _ Complaint Law Offices of Sobo _ Sobo LLP Unknown, Defendant 10-16-2023.pdf
+2025-06-18 00:43:07,823 - INFO - Successfully extracted 5262 characters from PDF
+2025-06-18 00:43:07,824 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 00:43:11,228 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 00:43:11,232 - INFO - AFC remote call 1 is done.
+2025-06-18 00:43:12,298 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 00:43:12,300 - INFO - Successfully generated summary for 2301073 Investigation Police Report_ MV-104 Merriman, Raymond Law Offices of Sobo _ Sobo LLP 03-16-2023 (3).pdf
+2025-06-18 00:43:14,252 - INFO - Summary email sent for 2301073 Investigation Police Report_ MV-104 Merriman, Raymond Law Offices of Sobo _ Sobo LLP 03-16-2023 (3).pdf
+2025-06-18 00:43:14,252 - INFO - Successfully processed PDF: 2301073 Investigation Police Report_ MV-104 Merriman, Raymond Law Offices of Sobo _ Sobo LLP 03-16-2023 (3).pdf
+2025-06-18 00:43:14,299 - INFO - Successfully extracted 1992 characters from PDF
+2025-06-18 00:43:14,299 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 00:43:17,542 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 00:43:17,543 - INFO - AFC remote call 1 is done.
+2025-06-18 00:43:18,179 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 00:43:18,181 - INFO - Successfully generated summary for Raymond Merriman payoff letter 3.26.25 (1).pdf
+2025-06-18 00:43:19,651 - INFO - Summary email sent for Raymond Merriman payoff letter 3.26.25 (1).pdf
+2025-06-18 00:43:19,652 - INFO - Successfully processed PDF: Raymond Merriman payoff letter 3.26.25 (1).pdf
+2025-06-18 00:43:20,784 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:44:22,359 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:44:22,520 - INFO - Found 0 unread emails
+2025-06-18 00:44:22,857 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:45:24,467 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:45:24,644 - INFO - Found 0 unread emails
+2025-06-18 00:45:24,991 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:46:26,229 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:46:26,384 - INFO - Found 0 unread emails
+2025-06-18 00:46:26,679 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:58:31,593 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:58:31,998 - INFO - Found 0 unread emails
+2025-06-18 00:58:32,338 - INFO - Waiting 60 seconds before next check...
+2025-06-18 00:59:33,124 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 00:59:33,280 - INFO - Found 0 unread emails
+2025-06-18 00:59:33,605 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:00:35,158 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:00:35,328 - INFO - Found 0 unread emails
+2025-06-18 01:00:35,672 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:01:36,472 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:01:36,712 - INFO - Found 0 unread emails
+2025-06-18 01:01:37,057 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:02:38,409 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:02:38,580 - INFO - Found 0 unread emails
+2025-06-18 01:02:38,905 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:03:40,199 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:03:40,371 - INFO - Found 0 unread emails
+2025-06-18 01:03:40,690 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:04:42,133 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:04:42,306 - INFO - Found 0 unread emails
+2025-06-18 01:04:42,635 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:05:44,219 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:05:44,832 - INFO - Found 0 unread emails
+2025-06-18 01:05:45,159 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:06:46,553 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:06:46,721 - INFO - Found 0 unread emails
+2025-06-18 01:06:47,038 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:07:47,978 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:07:48,146 - INFO - Found 0 unread emails
+2025-06-18 01:07:48,450 - INFO - Waiting 60 seconds before next check...
+2025-06-18 01:39:03,165 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 01:39:03,344 - INFO - Found 0 unread emails
+2025-06-18 01:39:03,660 - INFO - Waiting 60 seconds before next check...
+2025-06-18 04:24:42,914 - ERROR - Error connecting to email server: [Errno 54] Connection reset by peer
+2025-06-18 04:24:42,915 - ERROR - Unexpected error in main loop: [Errno 54] Connection reset by peer
+2025-06-18 06:51:56,842 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 06:51:57,004 - INFO - Found 0 unread emails
+2025-06-18 06:51:57,300 - INFO - Waiting 60 seconds before next check...
+2025-06-18 09:20:54,358 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 20:15:24,702 - INFO - Email PDF Agent initialized
+2025-06-18 20:15:24,702 - INFO - Legal Case Processor initialized
+2025-06-18 20:15:24,702 - INFO - Extracting case data from documents
+2025-06-18 20:15:24,707 - ERROR - Error extracting case data: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,429 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,430 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,430 - INFO - Extracting case data from documents
+2025-06-18 20:33:45,434 - ERROR - Error extracting case data: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,434 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,434 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,434 - INFO - Analyzing case for missing information
+2025-06-18 20:33:45,436 - ERROR - Error analyzing missing information: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,436 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,436 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,436 - INFO - Analyzing location risk for: Los Angeles, CA
+2025-06-18 20:33:45,437 - ERROR - Error analyzing location risk: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,437 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,438 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,438 - INFO - Verifying attorney: Sarah Levine
+2025-06-18 20:33:45,463 - ERROR - Error verifying attorney: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,463 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,463 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,463 - INFO - Generating comprehensive case report
+2025-06-18 20:33:45,463 - INFO - Comprehensive report generated successfully
+2025-06-18 20:33:45,463 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,463 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,464 - INFO - Legal Case Monitor initialized
+2025-06-18 20:33:45,464 - INFO - Identified legal case email: 5 keywords, law firm: True
+2025-06-18 20:33:45,464 - INFO - Identified legal case email: 5 keywords, law firm: False
+2025-06-18 20:33:45,464 - INFO - Email PDF Agent initialized
+2025-06-18 20:33:45,464 - INFO - Legal Case Processor initialized
+2025-06-18 20:33:45,464 - INFO - Processing legal case email from mchen@chenlaw.com
+2025-06-18 20:33:45,464 - INFO - Extracting case data from documents
+2025-06-18 20:33:45,465 - ERROR - Error extracting case data: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,465 - INFO - Analyzing case for missing information
+2025-06-18 20:33:45,467 - ERROR - Error analyzing missing information: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 20:33:45,467 - INFO - Generating comprehensive case report
+2025-06-18 20:33:45,467 - INFO - Comprehensive report generated successfully
+2025-06-18 20:33:45,467 - INFO - Legal case processing completed successfully
+2025-06-18 22:29:41,485 - INFO - Email PDF Agent initialized
+2025-06-18 22:29:41,485 - INFO - Starting Email PDF Agent...
+2025-06-18 22:29:41,852 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:29:41,852 - ERROR - Unexpected error in main loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:30:42,200 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:30:42,201 - ERROR - Unexpected error in main loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:31:42,573 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:31:42,575 - ERROR - Unexpected error in main loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:32:36,316 - INFO - Email PDF Agent initialized
+2025-06-18 22:32:37,547 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:34:23,455 - INFO - Email PDF Agent initialized
+2025-06-18 22:34:23,455 - INFO - Legal Case Processor initialized
+2025-06-18 22:34:23,455 - INFO - Extracting case data from documents
+2025-06-18 22:34:23,459 - ERROR - Error extracting case data: The api_key client option must be set either by passing api_key to the client or by setting the OPENAI_API_KEY environment variable
+2025-06-18 22:36:17,135 - INFO - Email PDF Agent initialized
+2025-06-18 22:36:17,135 - INFO - Legal Case Processor initialized
+2025-06-18 22:36:17,135 - INFO - Extracting case data from documents
+2025-06-18 22:36:17,181 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:36:17,746 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-06-18 22:36:17,758 - ERROR - Error extracting case data: <Response [429 Too Many Requests]>
+2025-06-18 22:37:55,469 - INFO - Email PDF Agent initialized
+2025-06-18 22:37:55,469 - INFO - Legal Case Processor initialized
+2025-06-18 22:38:03,038 - INFO - Email PDF Agent initialized
+2025-06-18 22:38:03,039 - INFO - Legal Case Processor initialized
+2025-06-18 22:38:03,039 - INFO - Extracting case data from documents
+2025-06-18 22:38:03,084 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:38:03,285 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-pro:generateContent "HTTP/1.1 429 Too Many Requests"
+2025-06-18 22:38:03,294 - ERROR - Error extracting case data: <Response [429 Too Many Requests]>
+2025-06-18 22:38:34,258 - INFO - Email PDF Agent initialized
+2025-06-18 22:38:34,258 - INFO - Legal Case Processor initialized
+2025-06-18 22:38:34,258 - INFO - Extracting case data from documents
+2025-06-18 22:38:34,313 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:38:37,166 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:38:37,168 - INFO - AFC remote call 1 is done.
+2025-06-18 22:38:37,842 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:38:37,844 - INFO - Successfully extracted case data for client: Jane Doe
+2025-06-18 22:40:00,924 - INFO - Email PDF Agent initialized
+2025-06-18 22:40:00,924 - INFO - Legal Case Processor initialized
+2025-06-18 22:40:00,924 - INFO - Legal Case Monitor initialized
+2025-06-18 22:40:00,925 - INFO - Legal Case Monitor starting...
+2025-06-18 22:40:00,925 - INFO - Press Ctrl+C to stop monitoring
+2025-06-18 22:40:00,925 - INFO - Starting legal case email monitoring...
+2025-06-18 22:40:00,925 - INFO - Starting legal case email monitoring...
+2025-06-18 22:40:02,262 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:40:02,262 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:40:38,116 - INFO - Email PDF Agent initialized
+2025-06-18 22:40:39,132 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:41:03,396 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:41:03,396 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:41:52,313 - INFO - Email PDF Agent initialized
+2025-06-18 22:41:53,557 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:42:04,442 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:42:04,443 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:42:17,887 - INFO - Email PDF Agent initialized
+2025-06-18 22:42:17,887 - INFO - Legal Case Processor initialized
+2025-06-18 22:42:17,887 - INFO - Legal Case Monitor initialized
+2025-06-18 22:42:17,887 - INFO - Legal Case Monitor starting...
+2025-06-18 22:42:17,887 - INFO - Press Ctrl+C to stop monitoring
+2025-06-18 22:42:17,887 - INFO - Starting legal case email monitoring...
+2025-06-18 22:42:17,887 - INFO - Starting legal case email monitoring...
+2025-06-18 22:42:18,576 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:42:18,576 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:43:19,277 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:43:19,279 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:44:20,514 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:44:20,516 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:45:21,118 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:45:21,119 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:45:26,092 - INFO - Email PDF Agent initialized
+2025-06-18 22:45:26,904 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:45:53,648 - INFO - Email PDF Agent initialized
+2025-06-18 22:45:53,648 - INFO - Legal Case Processor initialized
+2025-06-18 22:45:53,648 - INFO - Legal Case Monitor initialized
+2025-06-18 22:45:53,648 - INFO - Legal Case Monitor starting...
+2025-06-18 22:45:53,649 - INFO - Press Ctrl+C to stop monitoring
+2025-06-18 22:45:53,649 - INFO - Starting legal case email monitoring...
+2025-06-18 22:45:53,649 - INFO - Starting legal case email monitoring...
+2025-06-18 22:45:54,592 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:45:54,955 - INFO - Found 2 unread emails
+2025-06-18 22:45:54,956 - ERROR - Error processing email b'6': 'LegalCaseMonitor' object has no attribute '_fetch_email'
+2025-06-18 22:45:54,956 - ERROR - Error processing email b'7': 'LegalCaseMonitor' object has no attribute '_fetch_email'
+2025-06-18 22:46:27,285 - ERROR - Error connecting to email server: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:46:27,286 - ERROR - Error in monitoring loop: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2025-06-18 22:46:49,104 - INFO - Email PDF Agent initialized
+2025-06-18 22:46:49,104 - INFO - Legal Case Processor initialized
+2025-06-18 22:46:49,104 - INFO - Legal Case Monitor initialized
+2025-06-18 22:46:49,104 - INFO - Legal Case Monitor starting...
+2025-06-18 22:46:49,104 - INFO - Press Ctrl+C to stop monitoring
+2025-06-18 22:46:49,104 - INFO - Starting legal case email monitoring...
+2025-06-18 22:46:49,104 - INFO - Starting legal case email monitoring...
+2025-06-18 22:46:51,014 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:46:51,549 - INFO - Found 2 unread emails
+2025-06-18 22:46:52,090 - INFO - Processing email: Welcome to Google Workspace from The Google Workspace Team <workspace-noreply@google.com>
+2025-06-18 22:46:52,091 - INFO - Email does not appear to contain legal case information, skipping
+2025-06-18 22:46:52,878 - INFO - Processing email: Fwd: Colleen Abanilla - Nova Legal Funding PFF from Ron Sinai <ron@novafunding.com>
+2025-06-18 22:46:52,879 - INFO - Identified legal case email: 10 keywords, law firm: False
+2025-06-18 22:46:52,881 - INFO - Saved attachment to: /var/folders/lk/ccsc1pks23q5mxnz1z60lvk80000gn/T/legal_case_20250618_224652_Traffic Collision Report (15).pdf
+2025-06-18 22:46:52,881 - INFO - Processing legal case email from Ron Sinai <ron@novafunding.com>
+2025-06-18 22:46:53,382 - INFO - Successfully extracted 19131 characters from PDF
+2025-06-18 22:46:53,383 - INFO - Extracting case data from documents
+2025-06-18 22:46:53,402 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:46:57,020 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:46:57,024 - INFO - AFC remote call 1 is done.
+2025-06-18 22:46:57,719 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:46:57,721 - INFO - Successfully extracted case data for client: Colleen Abanilla
+2025-06-18 22:46:57,721 - INFO - Analyzing case for missing information
+2025-06-18 22:46:57,733 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:47:04,660 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:47:04,665 - INFO - AFC remote call 1 is done.
+2025-06-18 22:47:05,244 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:47:05,245 - INFO - Identified 27 missing information items
+2025-06-18 22:47:05,246 - INFO - Analyzing location risk for: SR-60 (Pomona Freeway) W/B, approximately 250 feet west of Wilcox Ave
+2025-06-18 22:47:05,253 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:47:11,987 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:47:11,989 - INFO - AFC remote call 1 is done.
+2025-06-18 22:47:12,578 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:47:12,580 - INFO - Location analysis complete: High risk
+2025-06-18 22:47:12,580 - INFO - Verifying attorney: Nick Movagar
+2025-06-18 22:47:12,594 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:47:17,966 - INFO - Email PDF Agent initialized
+2025-06-18 22:47:17,966 - INFO - Legal Case Processor initialized
+2025-06-18 22:47:17,966 - INFO - Legal Case Monitor initialized
+2025-06-18 22:47:17,966 - INFO - Legal Case Monitor starting...
+2025-06-18 22:47:17,966 - INFO - Press Ctrl+C to stop monitoring
+2025-06-18 22:47:17,966 - INFO - Starting legal case email monitoring...
+2025-06-18 22:47:17,966 - INFO - Starting legal case email monitoring...
+2025-06-18 22:47:18,199 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:47:18,200 - INFO - AFC remote call 1 is done.
+2025-06-18 22:47:18,798 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:47:18,800 - INFO - Attorney verification complete: Likely Active
+2025-06-18 22:47:18,800 - INFO - Generating comprehensive case report
+2025-06-18 22:47:18,801 - INFO - Comprehensive report generated successfully
+2025-06-18 22:47:18,801 - INFO - Legal case processing completed successfully
+2025-06-18 22:47:19,300 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:47:20,404 - INFO - Legal case report sent to ron@novafunding.com
+2025-06-18 22:47:20,404 - INFO - Legal case processed and report sent successfully
+2025-06-18 22:48:21,193 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:48:21,643 - INFO - Found 1 unread emails
+2025-06-18 22:48:22,170 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:48:22,283 - INFO - Processing email: Fwd: Colleen Abanilla - Nova Legal Funding PFF from Ron Sinai <ron@novafunding.com>
+2025-06-18 22:48:22,284 - INFO - Identified legal case email: 10 keywords, law firm: False
+2025-06-18 22:48:22,284 - INFO - Saved attachment to: /var/folders/lk/ccsc1pks23q5mxnz1z60lvk80000gn/T/legal_case_20250618_224822_Traffic Collision Report (15).pdf
+2025-06-18 22:48:22,284 - INFO - Processing legal case email from Ron Sinai <ron@novafunding.com>
+2025-06-18 22:48:22,775 - INFO - Successfully extracted 19131 characters from PDF
+2025-06-18 22:48:22,775 - INFO - Extracting case data from documents
+2025-06-18 22:48:22,796 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:48:26,480 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:48:26,483 - INFO - AFC remote call 1 is done.
+2025-06-18 22:48:27,105 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:48:27,107 - INFO - Successfully extracted case data for client: Colleen Abanilla
+2025-06-18 22:48:27,107 - INFO - Analyzing case for missing information
+2025-06-18 22:48:27,119 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:48:33,953 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:48:33,958 - INFO - AFC remote call 1 is done.
+2025-06-18 22:48:34,557 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:48:34,559 - INFO - Identified 30 missing information items
+2025-06-18 22:48:34,560 - INFO - Analyzing location risk for: SR-60 (Pomona Freeway) W/B, approximately 250 feet west of Wilcox Ave, Los Angeles, CA
+2025-06-18 22:48:34,571 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:48:41,840 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:48:41,844 - INFO - AFC remote call 1 is done.
+2025-06-18 22:48:42,487 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:48:42,489 - INFO - Location analysis complete: High risk
+2025-06-18 22:48:42,489 - INFO - Verifying attorney: Nick Movagar
+2025-06-18 22:48:42,500 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:48:48,385 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:48:48,388 - INFO - AFC remote call 1 is done.
+2025-06-18 22:48:49,032 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:48:49,034 - INFO - Attorney verification complete: Likely Active
+2025-06-18 22:48:49,034 - INFO - Generating comprehensive case report
+2025-06-18 22:48:49,034 - INFO - Comprehensive report generated successfully
+2025-06-18 22:48:49,035 - INFO - Legal case processing completed successfully
+2025-06-18 22:48:50,765 - INFO - Legal case report sent to ron@novafunding.com
+2025-06-18 22:48:50,766 - INFO - Legal case processed and report sent successfully
+2025-06-18 22:49:24,003 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:49:52,360 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:50:26,045 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:50:54,565 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:51:28,442 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:51:56,676 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:52:30,877 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:52:58,695 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:53:32,889 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:54:00,487 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:54:34,912 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:55:03,287 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:55:03,747 - INFO - Found 1 unread emails
+2025-06-18 22:55:04,791 - INFO - Processing email: Fwd: David Stevenson - Nova Legal Funding PFF from Ron Sinai <ron@novafunding.com>
+2025-06-18 22:55:04,791 - INFO - Identified legal case email: 6 keywords, law firm: False
+2025-06-18 22:55:04,791 - INFO - Saved attachment to: /var/folders/lk/ccsc1pks23q5mxnz1z60lvk80000gn/T/legal_case_20250618_225504_ER recs.pdf
+2025-06-18 22:55:04,792 - INFO - Saved attachment to: /var/folders/lk/ccsc1pks23q5mxnz1z60lvk80000gn/T/legal_case_20250618_225504_Imaging.pdf
+2025-06-18 22:55:04,792 - INFO - Saved attachment to: /var/folders/lk/ccsc1pks23q5mxnz1z60lvk80000gn/T/legal_case_20250618_225504_OP report (3).pdf
+2025-06-18 22:55:04,793 - INFO - Saved attachment to: /var/folders/lk/ccsc1pks23q5mxnz1z60lvk80000gn/T/legal_case_20250618_225504_PTCR.pdf
+2025-06-18 22:55:04,793 - INFO - Processing legal case email from Ron Sinai <ron@novafunding.com>
+2025-06-18 22:55:05,212 - INFO - Successfully extracted 24979 characters from PDF
+2025-06-18 22:55:05,295 - INFO - Successfully extracted 5602 characters from PDF
+2025-06-18 22:55:05,428 - INFO - Successfully extracted 7845 characters from PDF
+2025-06-18 22:55:05,518 - INFO - Successfully extracted 6780 characters from PDF
+2025-06-18 22:55:05,519 - INFO - Extracting case data from documents
+2025-06-18 22:55:05,519 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:55:10,746 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:55:10,749 - INFO - AFC remote call 1 is done.
+2025-06-18 22:55:11,450 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:55:11,451 - INFO - Successfully extracted case data for client: STEVENSON, DAVID A
+2025-06-18 22:55:11,452 - INFO - Analyzing case for missing information
+2025-06-18 22:55:11,453 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:55:19,272 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:55:19,275 - INFO - AFC remote call 1 is done.
+2025-06-18 22:55:19,858 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:55:19,860 - INFO - Identified 32 missing information items
+2025-06-18 22:55:19,860 - INFO - Analyzing location risk for: Thorp Prairie Rd and Sunlight Waters Rd intersection
+2025-06-18 22:55:19,861 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 22:55:25,297 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 22:55:25,299 - INFO - AFC remote call 1 is done.
+2025-06-18 22:55:25,900 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 22:55:25,901 - INFO - Location analysis complete: High risk
+2025-06-18 22:55:25,902 - INFO - Generating comprehensive case report
+2025-06-18 22:55:25,902 - INFO - Comprehensive report generated successfully
+2025-06-18 22:55:25,902 - INFO - Legal case processing completed successfully
+2025-06-18 22:55:27,364 - INFO - Legal case report sent to ron@novafunding.com
+2025-06-18 22:55:27,364 - INFO - Legal case processed and report sent successfully
+2025-06-18 22:55:36,872 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:56:29,089 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:56:38,783 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:57:31,512 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:57:40,822 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:58:33,516 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:58:43,000 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:59:35,645 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 22:59:44,851 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:00:38,038 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:00:47,014 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:01:49,175 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:02:51,503 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:03:53,203 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:04:55,389 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:05:57,084 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:06:59,423 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:07:56,477 - INFO - Email PDF Agent initialized
+2025-06-18 23:07:56,477 - INFO - Legal Case Processor initialized
+2025-06-18 23:08:01,576 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:08:48,419 - INFO - Email PDF Agent initialized
+2025-06-18 23:08:48,419 - INFO - Legal Case Processor initialized
+2025-06-18 23:08:48,419 - INFO - Processing 3 police reports
+2025-06-18 23:08:48,419 - INFO - Processing police report 1 of 3
+2025-06-18 23:08:48,419 - INFO - Extracting police report data from text content
+2025-06-18 23:08:48,464 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:08:51,656 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:08:51,659 - INFO - AFC remote call 1 is done.
+2025-06-18 23:08:52,373 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:08:52,375 - INFO - Successfully extracted police report data
+2025-06-18 23:08:52,376 - INFO - Processing police report 2 of 3
+2025-06-18 23:08:52,376 - INFO - Extracting police report data from text content
+2025-06-18 23:08:52,377 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:08:55,024 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:08:55,027 - INFO - AFC remote call 1 is done.
+2025-06-18 23:08:55,630 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:08:55,632 - INFO - Successfully extracted police report data
+2025-06-18 23:08:55,632 - INFO - Processing police report 3 of 3
+2025-06-18 23:08:55,632 - INFO - Extracting police report data from text content
+2025-06-18 23:08:55,633 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:08:58,093 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:08:58,095 - INFO - AFC remote call 1 is done.
+2025-06-18 23:08:58,692 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:08:58,693 - INFO - Successfully extracted police report data
+2025-06-18 23:08:58,693 - INFO - Successfully processed 3 police reports
+2025-06-18 23:08:58,693 - INFO - Analyzing 3 police reports for consistency and insights
+2025-06-18 23:08:58,703 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:03,789 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:09:05,976 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:05,979 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:06,578 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:06,580 - INFO - Multi-report analysis completed
+2025-06-18 23:09:06,582 - INFO - Email PDF Agent initialized
+2025-06-18 23:09:06,582 - INFO - Legal Case Processor initialized
+2025-06-18 23:09:21,026 - INFO - Email PDF Agent initialized
+2025-06-18 23:09:21,026 - INFO - Legal Case Processor initialized
+2025-06-18 23:09:21,026 - INFO - Extracting case data from documents
+2025-06-18 23:09:21,073 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:23,343 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:23,345 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:23,978 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:23,980 - INFO - Successfully extracted case data for client: Jane Doe
+2025-06-18 23:09:23,980 - INFO - Analyzing case for missing information
+2025-06-18 23:09:23,989 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:30,488 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:30,490 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:31,091 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:31,092 - INFO - Identified 28 missing information items
+2025-06-18 23:09:31,093 - INFO - Analyzing location risk for: Los Angeles, CA
+2025-06-18 23:09:31,104 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:36,529 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:36,530 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:37,174 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:37,175 - INFO - Location analysis complete: High risk
+2025-06-18 23:09:37,175 - INFO - Verifying attorney: Sarah Levine
+2025-06-18 23:09:37,186 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:43,597 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:43,602 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:44,193 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:44,194 - INFO - Attorney verification complete: Likely Active
+2025-06-18 23:09:44,194 - INFO - Processing 2 police reports
+2025-06-18 23:09:44,195 - INFO - Processing police report 1 of 2
+2025-06-18 23:09:44,195 - INFO - Extracting police report data from text content
+2025-06-18 23:09:44,196 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:47,076 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:47,079 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:47,696 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:47,696 - INFO - Successfully extracted police report data
+2025-06-18 23:09:47,697 - INFO - Processing police report 2 of 2
+2025-06-18 23:09:47,697 - INFO - Extracting police report data from text content
+2025-06-18 23:09:47,697 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:50,046 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:50,049 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:50,689 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:50,691 - INFO - Successfully extracted police report data
+2025-06-18 23:09:50,691 - INFO - Successfully processed 2 police reports
+2025-06-18 23:09:50,692 - INFO - Analyzing 2 police reports for consistency and insights
+2025-06-18 23:09:50,701 - INFO - AFC is enabled with max remote calls: 10.
+2025-06-18 23:09:56,977 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent "HTTP/1.1 200 OK"
+2025-06-18 23:09:56,980 - INFO - AFC remote call 1 is done.
+2025-06-18 23:09:57,590 - INFO - HTTP Request: POST https://api.agno.com/v1/telemetry/agent/run/create "HTTP/1.1 200 OK"
+2025-06-18 23:09:57,592 - INFO - Multi-report analysis completed
+2025-06-18 23:09:57,592 - INFO - Generating comprehensive case report
+2025-06-18 23:09:57,593 - INFO - Comprehensive report generated successfully
+2025-06-18 23:10:05,318 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:11:07,444 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:12:09,822 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:13:12,370 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:14:14,707 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:15:17,009 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:16:19,242 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:17:21,467 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:18:23,617 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:19:25,647 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:20:27,903 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:21:30,289 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:22:33,052 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:23:35,621 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:24:37,846 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:25:40,289 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:26:42,588 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:27:44,633 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:28:46,183 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:29:48,224 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:30:50,408 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:31:52,409 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:32:54,409 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:33:56,570 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:34:58,832 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:36:01,282 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:37:03,639 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:57:04,952 - INFO - Connected to email server: imap.gmail.com
+2025-06-18 23:58:06,847 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 00:07:27,092 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 00:13:26,316 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 00:30:11,411 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 00:47:27,983 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 01:22:00,871 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 01:38:33,597 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 01:56:38,660 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 01:57:41,918 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 01:58:43,745 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 01:59:46,564 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:16:32,418 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:17:34,584 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:18:36,542 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:19:39,415 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:20:41,542 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:21:43,016 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:22:45,066 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:23:47,012 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:24:48,979 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:25:51,533 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:26:53,075 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:27:55,136 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:28:56,789 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:29:58,679 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:31:00,572 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:32:03,254 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:33:05,347 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:34:07,322 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:35:09,419 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:36:11,096 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:37:13,221 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:38:14,864 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:39:16,586 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:40:18,821 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:41:20,298 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:42:22,387 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:43:24,470 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:44:26,009 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:45:27,689 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:46:29,581 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:47:31,571 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:48:33,209 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:49:35,152 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:50:37,047 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:51:39,039 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:52:41,363 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:53:43,255 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:54:45,324 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:55:47,279 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:56:49,283 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:57:51,193 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:58:53,353 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 02:59:55,396 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:00:57,452 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:01:59,003 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:03:00,587 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:04:02,501 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:05:04,433 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:06:06,737 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:07:09,165 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:08:12,592 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:09:14,702 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:10:16,724 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:11:18,707 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:12:20,893 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:13:22,475 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:14:24,483 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:15:26,581 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:16:28,601 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:34:24,296 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 03:50:52,226 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:08:25,462 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:09:27,389 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:10:29,263 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:11:31,743 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:12:33,840 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:13:35,854 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:14:37,911 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:15:39,969 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:16:42,216 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:17:44,216 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:18:46,238 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:19:48,427 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:20:50,763 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:21:52,835 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:22:54,714 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:23:56,609 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:24:58,558 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:26:00,525 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:27:02,323 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:28:04,140 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:29:06,385 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:30:08,519 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:31:10,584 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:32:12,598 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:33:15,523 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:34:17,827 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:35:19,770 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:36:22,433 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:37:24,268 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:38:26,231 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:39:27,870 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:40:29,828 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:41:31,999 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:42:33,902 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:43:36,068 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:44:38,245 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:45:40,510 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:46:42,542 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:47:44,508 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:48:46,481 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:49:48,104 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:50:49,645 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:51:51,662 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:52:53,663 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:53:55,698 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:54:57,565 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:55:59,110 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:57:01,208 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:58:03,651 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 04:59:05,710 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:00:07,835 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:01:09,882 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:02:11,953 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:03:13,759 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:04:16,617 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:05:18,761 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:06:20,582 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:07:22,286 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:08:24,503 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:09:26,755 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:10:28,707 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:11:30,769 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:12:32,952 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:13:34,966 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:14:37,031 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:15:39,127 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:16:43,058 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:17:45,246 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:18:47,529 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:19:49,565 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:20:52,693 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:21:55,456 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:22:57,605 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:23:59,338 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:25:01,306 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:26:03,275 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:27:04,922 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:28:06,798 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:29:08,809 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:30:11,481 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:31:13,552 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:32:15,682 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:33:17,730 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:34:19,273 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:35:21,355 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:36:23,283 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:37:25,285 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:38:26,887 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:39:28,843 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:40:30,782 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:41:32,736 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:42:34,700 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:43:36,649 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:44:38,648 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:45:40,667 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:46:42,943 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:47:44,867 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:48:46,914 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:49:48,856 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:50:50,509 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:51:52,063 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:52:54,016 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:53:55,504 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 05:56:47,767 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 06:13:02,183 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 06:29:15,923 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:00:44,026 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:16:43,449 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:32:42,898 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:48:42,430 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:49:44,508 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:50:46,451 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 07:58:04,879 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:14:04,382 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:31:54,385 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:32:56,018 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:33:57,989 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:35:00,057 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:36:02,127 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:37:04,295 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:38:06,521 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:39:08,151 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:40:10,218 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:41:12,233 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:42:13,906 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:43:15,863 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:44:17,410 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:45:18,963 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:46:21,036 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:47:23,074 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:48:25,138 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:49:27,060 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:50:28,984 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:51:30,961 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:52:32,507 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:53:34,146 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:54:36,093 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:55:38,055 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:56:39,516 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:57:41,496 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:58:43,538 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 08:59:45,476 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:00:47,127 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:01:48,652 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:02:50,678 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:03:52,969 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:04:55,034 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:05:56,664 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:06:58,736 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:08:00,264 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:09:02,352 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:10:04,489 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:11:06,628 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:12:08,144 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:13:09,815 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:14:11,751 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:15:13,346 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:16:14,808 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:17:17,194 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:18:18,957 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:19:20,920 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:20:22,844 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:21:24,931 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:22:27,104 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:23:29,054 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:24:31,095 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:25:33,155 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:26:35,252 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:27:37,368 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:28:39,014 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:29:41,069 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:30:43,162 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 09:46:48,416 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:15:12,451 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:31:33,317 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:32:35,391 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:33:37,494 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:34:38,991 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:35:41,232 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:36:43,243 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:37:44,824 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:38:46,842 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:39:48,686 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:40:50,199 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:41:52,214 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:42:53,929 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:43:55,486 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:44:57,123 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:45:58,897 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:47:01,184 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:48:03,319 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:49:05,390 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:50:07,001 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:51:09,027 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:52:11,198 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:53:12,735 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:54:14,612 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:55:16,121 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:56:18,066 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:57:20,034 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:58:22,002 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 10:59:24,040 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:00:26,215 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:01:28,194 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:02:37,141 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:03:39,758 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:04:41,835 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:05:44,200 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:06:46,204 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:07:48,159 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:08:50,021 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:09:51,908 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:10:53,738 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:11:55,362 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:12:57,311 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:13:59,271 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:15:01,139 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:16:02,665 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:17:04,727 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:18:06,643 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:19:08,737 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:20:10,949 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:21:12,512 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:22:14,449 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:23:16,410 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:24:18,384 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:25:20,478 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:26:22,717 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:27:24,603 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:28:26,789 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:29:28,960 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:30:30,878 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 11:31:33,625 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 12:04:47,166 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 12:22:33,061 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 12:40:50,365 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 12:57:55,190 - INFO - Connected to email server: imap.gmail.com
+2025-06-19 13:17:56,365 - ERROR - Error connecting to email server: [Errno 8] nodename nor servname provided, or not known
+2025-06-19 13:17:56,366 - ERROR - Error in monitoring loop: [Errno 8] nodename nor servname provided, or not known
+2025-06-19 16:20:56,171 - ERROR - Error connecting to email server: [Errno 8] nodename nor servname provided, or not known
+2025-06-19 16:20:56,172 - ERROR - Error in monitoring loop: [Errno 8] nodename nor servname provided, or not known
+2025-06-19 18:33:18,729 - INFO - Connected to email server: imap.gmail.com
