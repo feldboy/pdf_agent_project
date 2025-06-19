@@ -1,0 +1,14 @@
+agno
+pypdf
+openai
+anthropic
+google-generativeai
+reportlab
+lancedb
+
+# Email processing dependencies
+python-dotenv
+
+# Additional utilities for email agent
+schedule
+psutil

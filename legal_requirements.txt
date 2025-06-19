@@ -1,0 +1,40 @@
+# Legal Case Processing System Requirements
+# Install with: pip install -r legal_requirements.txt
+
+# Core Dependencies
+agno>=0.1.0                    # Main AI agent framework
+pypdf>=4.0.0                   # PDF text extraction
+python-dotenv>=1.0.0           # Environment variable management
+requests>=2.31.0               # HTTP requests for API calls
+
+# AI/LLM Providers (choose one or more)
+openai>=1.3.0                  # OpenAI GPT models (recommended)
+anthropic>=0.5.0               # Anthropic Claude models
+google-generativeai>=0.3.0     # Google Gemini models
+
+# Email Processing
+email-validator>=2.1.0         # Email address validation
+imapclient>=2.3.0             # Enhanced IMAP client
+
+# Document Generation
+reportlab>=4.0.0              # PDF generation for testing
+markdown>=3.5.0               # Markdown processing
+
+# Data Processing
+python-dateutil>=2.8.0        # Date parsing utilities
+pydantic>=2.0.0               # Data validation
+
+# Optional Enhancements
+beautifulsoup4>=4.12.0        # Web scraping for attorney verification
+lxml>=4.9.0                   # XML/HTML parsing
+selenium>=4.15.0              # Web automation (optional)
+
+# Development & Testing
+pytest>=7.4.0                # Testing framework
+pytest-asyncio>=0.21.0       # Async testing support
+black>=23.0.0                # Code formatting
+flake8>=6.0.0                # Code linting
+
+# Security
+cryptography>=41.0.0          # Encryption support
+keyring>=24.0.0               # Secure credential storage
