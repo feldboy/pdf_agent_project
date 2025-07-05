@@ -1,0 +1,48 @@
+{
+  "twitter": {
+    "bearer_token": "",
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token": "",
+    "access_token_secret": ""
+  },
+  "telegram": {
+    "bot_token": "7576198731:AAGIFMqo3JjLXXuEDs-603GMbT237EaK-CA",
+    "chat_id": ""
+  },
+  "openai": {
+    "api_key": ""
+  },
+  "monitoring": {
+    "check_interval_minutes": 30,
+    "summary_frequency": "daily",
+    "max_tweets_per_check": 100,
+    "relevance_threshold": 0.6
+  },
+  "ai_keywords": {
+    "primary": [
+      "artificial intelligence", "machine learning", "deep learning",
+      "neural network", "transformer", "GPT", "LLM", "large language model",
+      "ChatGPT", "OpenAI", "Anthropic", "Claude", "Gemini", "LaMDA",
+      "computer vision", "natural language processing", "NLP",
+      "reinforcement learning", "generative AI", "AI breakthrough",
+      "new AI model", "AI research", "paper release", "arxiv",
+      "AI methodology", "AI technique", "foundation model"
+    ],
+    "secondary": [
+      "diffusion model", "stable diffusion", "DALL-E", "midjourney",
+      "AI agent", "autonomous agent", "multimodal", "AGI",
+      "AI safety", "alignment", "RLHF", "fine-tuning",
+      "prompt engineering", "RAG", "retrieval augmented",
+      "vector database", "embedding", "attention mechanism",
+      "self-supervised", "few-shot", "zero-shot", "in-context learning"
+    ]
+  },
+  "trusted_sources": [
+    "OpenAI", "AnthropicAI", "DeepMind", "GoogleAI", "MetaAI",
+    "StabilityAI", "HuggingFace", "OpenResearch", "paperswithcode",
+    "AIatMeta", "GoogleDeepMind", "MSFTResearch", "NVIDIAAIDev",
+    "ylecun", "karpathy", "sama", "demishassabis", "jeffdean",
+    "hardmaru", "fchollet", "tegmark", "elonmusk", "sundarpichai"
+  ]
+}
